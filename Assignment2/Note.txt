@@ -1,1 +1,17 @@
+Assignment2 : final voyage
 
+Proces
+I have a great interest in the 2nd World War. Not only do the thoughts bring up tears for all victims but also a certain admiration for the engineering accomplishment every country has accomplished. At this time a country was not measured on how large their army was but how many battleships they had. So i wanted to make a data visualization around battleships.
+
+Goal
+Show on a map where battleships have sunk and how many people have died from the ship.
+
+Properties
+Intent: A.1 Exploratory
+
+Appearance: A.2 Interactive
+
+Other: A.x D3
+
+Result
+A world map where all battleships are depicted on the spot that they have sunk. You can see the name of the ship as well as the date that it was sunk and the number of deaths.
