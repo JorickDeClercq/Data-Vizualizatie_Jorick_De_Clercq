@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+h1,
+h3,
+p {
+    text-align: center;
+}
+
+path {
+    stroke: black;
+    stroke-width: 0.5px;
+    fill: lightgrey;
+}
+
+#tooltip {
+    text-align: left;
+    padding: 16px;
+    background-color: white;
+    border: 1px solid black;
+    width: auto;
+    opacity: 0;
+    color: black;
+    position: absolute;
+}

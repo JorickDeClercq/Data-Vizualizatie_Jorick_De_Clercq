@@ -1,0 +1,982 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+          -16.2,
+          48.166667
+        ]
+            },
+            "properties": {
+                "name": "Bismarck",
+                "navy": "German Navy",
+                "date_sunk": "27 May 1941",
+                "death": "2086",
+                "id": "1",
+                "reclong": " -16.2",
+                "reclat": "48.166667"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           121.245772,
+            38.803753
+        ]
+            },
+            "properties": {
+                "name": "Poltava",
+                "navy": "Russian Navy",
+                "date_sunk": "5 December 1904",
+                "death": "0",
+                "id": "2",
+                "reclong": "121.245772",
+                "reclat": "38.803753"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           121.229702,
+            38.797106
+        ]
+            },
+            "properties": {
+                "name": "Pobeda",
+                "navy": "Russian Navy",
+                "date_sunk": "7 December 1904",
+                "death": "0",
+                "id": "3",
+                "reclong": "121.229702",
+                "reclat": "38.797106"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           129.500986,
+            33.066366
+        ]
+            },
+            "properties": {
+                "name": "Oslyabya",
+                "navy": "Russian Navy",
+                "date_sunk": "27 May 1905",
+                "death": "492",
+                "id": "4",
+                "reclong": "129.500986",
+                "reclat": "33.066366"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           129.500986,
+            35.066366
+        ]
+            },
+            "properties": {
+                "name": "Imperator Aleksandr III",
+                "navy": "Russian Navy",
+                "date_sunk": "27 May 1905",
+                "death": "778",
+                "id": "5",
+                "reclong": "129.500986",
+                "reclat": "35.066366"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           126.500986,
+            32.066366
+        ]
+            },
+            "properties": {
+                "name": "Borodino",
+                "navy": "Russian Navy",
+                "date_sunk": "27 May 1905",
+                "death": "854",
+                "id": "6",
+                "reclong": "129.500986",
+                "reclat": "32.066366"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           126.500986,
+            33.066366
+        ]
+            },
+            "properties": {
+                "name": "Knyaz Suvorov",
+                "navy": "Russian Navy",
+                "date_sunk": "27 May 1905",
+                "death": "908",
+                "id": "7",
+                "reclong": "126.500986",
+                "reclat": "33.066366"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           126.500986,
+            33.066366
+        ]
+            },
+            "properties": {
+                "name": "Knyaz Suvorov",
+                "navy": "Russian Navy",
+                "date_sunk": "27 May 1905",
+                "death": "908",
+                "id": "7",
+                "reclong": "129.500986",
+                "reclat": "33.066366"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           129.500986,
+            34.066366
+        ]
+            },
+            "properties": {
+                "name": "Navarin",
+                "navy": "Russian Navy",
+                "date_sunk": "28 May 1905",
+                "death": "741",
+                "id": "8",
+                "reclong": "129.500986",
+                "reclat": "34.066366"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           131.500986,
+            34.066366
+        ]
+            },
+            "properties": {
+                "name": "Sissoi Veliky",
+                "navy": "Russian Navy",
+                "date_sunk": "28 May 1905",
+                "death": "47",
+                "id": "9",
+                "reclong": "131.500986",
+                "reclat": "34.066366"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           -3.066667,
+            50.216667
+        ]
+            },
+            "properties": {
+                "name": "HMS Formidable",
+                "navy": "Royal Navy",
+                "date_sunk": "1 January 1915",
+                "death": "547",
+                "id": "10",
+                "reclong": "-3.066667",
+                "reclat": "50.216667"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           27.301319,
+            40.051597
+        ]
+            },
+            "properties": {
+                "name": "HMS Irresistible",
+                "navy": "Royal Navy",
+                "date_sunk": "18 March 1915",
+                "death": "150",
+                "id": "11",
+                "reclong": "26.301319",
+                "reclat": "40.051597"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           24.301319,
+            40.051597
+        ]
+            },
+            "properties": {
+                "name": "HMS Goliath",
+                "navy": "Royal Navy",
+                "date_sunk": "13 May 1915",
+                "death": "570",
+                "id": "12",
+                "reclong": "24.301319",
+                "reclat": "40.051597"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           26.301319,
+            41.051597
+        ]
+            },
+            "properties": {
+                "name": "HMS Triumph",
+                "navy": "Royal Navy",
+                "date_sunk": "25 May 1915",
+                "death": "78",
+                "id": "13",
+                "reclong": "26.301319",
+                "reclat": "41.051597"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           26.301319,
+            40.051597
+        ]
+            },
+            "properties": {
+                "name": "HMS Majestic",
+                "navy": "Royal Navy",
+                "date_sunk": "27 May 1915",
+                "death": "49",
+                "id": "14",
+                "reclong": "26.301319",
+                "reclat": "40.051597"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+           26.301319,
+            38.051597
+        ]
+            },
+            "properties": {
+                "name": "SMS Kurfürst Friedrich",
+                "navy": "Imperial German Navy",
+                "date_sunk": "8 August 1915",
+                "death": "258",
+                "id": "15",
+                "reclong": "26.301319",
+                "reclat": "44.051597"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                3,
+                56
+        ]
+            },
+            "properties": {
+                "name": "SMS Pommern",
+                "navy": "Imperial German Navy",
+                "date_sunk": "1 June 1916",
+                "death": "839",
+                "id": "16",
+                "reclong": "3",
+                "reclat": "56"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+               -10.8,
+                39.166667
+        ]
+            },
+            "properties": {
+                "name": "Suffren",
+                "navy": "Marine Nationale",
+                "date_sunk": "26 November 1916",
+                "death": "648",
+                "id": "17",
+                "reclong": "-10.8",
+                "reclat": "39.166667"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+               23.7,
+                36.25
+        ]
+            },
+            "properties": {
+                "name": "Gaulois",
+                "navy": "Marine Nationale",
+                "date_sunk": "27 December 1916",
+                "death": "4",
+                "id": "18",
+                "reclong": "23.7",
+                "reclat": "36.25"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+               15.183333,
+                35.1
+        ]
+            },
+            "properties": {
+                "name": "HMS Cornwallis",
+                "navy": "Royal Navy",
+                "date_sunk": "9 January 1917",
+                "death": "15",
+                "id": "19",
+                "reclong": "15.183333",
+                "reclat": "35.1"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+               8.058333,
+                38.759722
+        ]
+            },
+            "properties": {
+                "name": "Danton",
+                "navy": "Marine Nationale",
+                "date_sunk": "19 March 1917",
+                "death": "296",
+                "id": "20",
+                "reclong": "8.058333",
+                "reclat": "38.759722"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              13.819167,
+                44.869167
+        ]
+            },
+            "properties": {
+                "name": "SMS Viribus Unitis",
+                "navy": "Austro-Hungarian Navy",
+                "date_sunk": "1 November 1918",
+                "death": "300",
+                "id": "21",
+                "reclong": "13.819167",
+                "reclat": "44.869167"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              14.451389,
+                44.201944
+        ]
+            },
+            "properties": {
+                "name": "SMS Szent István",
+                "navy": "Austro-Hungarian Navy",
+                "date_sunk": "10 June 1918",
+                "death": "89",
+                "id": "22",
+                "reclong": "14.451389",
+                "reclat": "44.201944"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              14.451389,
+                42.201944
+        ]
+            },
+            "properties": {
+                "name": "HMS Britannia",
+                "navy": "Royal Navy",
+                "date_sunk": "9 November 1918",
+                "death": "50",
+                "id": "23",
+                "reclong": "14.451389",
+                "reclat": "42.201944"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              -2.983333,
+                58.916667
+        ]
+            },
+            "properties": {
+                "name": "HMS Royal Oak",
+                "navy": "Royal Navy",
+                "date_sunk": "14 October 1939",
+                "death": "833",
+                "id": "24",
+                "reclong": "-2.983333",
+                "reclat": "58.916667"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              -0.716667,
+                35.733333
+        ]
+            },
+            "properties": {
+                "name": "Bretagne",
+                "navy": "Marine Nationale",
+                "date_sunk": "3 July 1940",
+                "death": "977",
+                "id": "25",
+                "reclong": "-0.716667",
+                "reclat": "35.733333"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              23.533333,
+                37.973611
+        ]
+            },
+            "properties": {
+                "name": "Kilkis",
+                "navy": "Hellenic Navy",
+                "date_sunk": "23 April 1941",
+                "death": "0",
+                "id": "26",
+                "reclong": "23.533333",
+                "reclat": "37.973611"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              23.533333,
+                37.973611
+        ]
+            },
+            "properties": {
+                "name": "Lemnos",
+                "navy": "Hellenic Navy",
+                "date_sunk": "23 April 1941",
+                "death": "0",
+                "id": "27",
+                "reclong": "23.533333",
+                "reclat": "37.973611"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              30.308611,
+                59.9375
+        ]
+            },
+            "properties": {
+                "name": "Petropavlovsk",
+                "navy": "Soviet Navy",
+                "date_sunk": "23 April 1941",
+                "death": "326",
+                "id": "28",
+                "reclong": "30.308611",
+                "reclat": "59.9375"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              26.4,
+                32.566667
+        ]
+            },
+            "properties": {
+                "name": "HMS Barham",
+                "navy": "Royal Navy",
+                "date_sunk": "25 November 1941",
+                "death": "862",
+                "id": "29",
+                "reclong": "26.4",
+                "reclat": "32.566667"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              -157.95,
+                21.364722
+        ]
+            },
+            "properties": {
+                "name": "USS Arizona",
+                "navy": "United States Navy",
+                "date_sunk": "7 December 1941",
+                "death": "1177",
+                "id": "30",
+                "reclong": "-157.95",
+                "reclat": "21.364722"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              -157.962222,
+                21.364722
+        ]
+            },
+            "properties": {
+                "name": "USS Utah",
+                "navy": "United States Navy",
+                "date_sunk": "7 December 1941",
+                "death": "64",
+                "id": "31",
+                "reclong": "-157.962222",
+                "reclat": "21.364722"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              104.478333,
+                3.56
+        ]
+            },
+            "properties": {
+                "name": "HMS Prince of Wales",
+                "navy": "Royal Navy",
+                "date_sunk": "10 December 1941",
+                "death": "327",
+                "id": "32",
+                "reclong": "104.478333",
+                "reclat": "3.56"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              110,
+                10
+        ]
+            },
+            "properties": {
+                "name": "Asahi",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "25 May 1942",
+                "death": "16",
+                "id": "33",
+                "reclong": "110",
+                "reclat": "10"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              8.293056,
+               41.157778
+        ]
+            },
+            "properties": {
+                "name": "Roma",
+                "navy": "Regia Marina",
+                "date_sunk": "9 September 1943",
+                "death": "1393",
+                "id": "34",
+                "reclong": "8.293056",
+                "reclat": "41.157778"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              159,
+              9
+        ]
+            },
+            "properties": {
+                "name": "Hiei",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "14 November 1942",
+                "death": "188",
+                "id": "35",
+                "reclong": "159",
+                "reclat": "9"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              160.183333,
+              -9.616667
+        ]
+            },
+            "properties": {
+                "name": "Kirishima",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "15 November 1942",
+                "death": "212",
+                "id": "36",
+                "reclong": "160.183333",
+                "reclat": "-9.616667"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              28.683333,
+              72.266667
+        ]
+            },
+            "properties": {
+                "name": "Scharnhorst",
+                "navy": "German Navy",
+                "date_sunk": "26 December 1943",
+                "death": "1932",
+                "id": "37",
+                "reclong": "28.683333",
+                "reclat": "72.266667"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              29.043822,
+              44.793981
+        ]
+            },
+            "properties": {
+                "name": "Strasbourg",
+                "navy": "Marine Nationale",
+                "date_sunk": "18 August 1944",
+                "death": "0",
+                "id": "38",
+                "reclong": "29.043822",
+                "reclat": "44.793981"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              5.92,
+              43.13
+        ]
+            },
+            "properties": {
+                "name": "Jean Bart",
+                "navy": "Marine Nationale",
+                "date_sunk": "28 August 1944",
+                "death": "0",
+                "id": "39",
+                "reclong": "5.92",
+                "reclat": "43.13"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              122.533333,
+              13.116667
+        ]
+            },
+            "properties": {
+                "name": "Musashi",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "24 October 1944",
+                "death": "1023",
+                "id": "40",
+                "reclong": "122.533333",
+                "reclat": "13.116667"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              125.455877,
+              10.237531
+        ]
+            },
+            "properties": {
+                "name": "Fuso",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "25 October 1944",
+                "death": "1620",
+                "id": "41",
+                "reclong": "125.455877",
+                "reclat": "10.237531"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              125.390586,
+              10.283317
+        ]
+            },
+            "properties": {
+                "name": "Yamashiro",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "25 October 1944",
+                "death": "1626",
+                "id": "42",
+                "reclong": "125.390586",
+                "reclat": "10.283317"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              18.808333,
+              69.647222
+        ]
+            },
+            "properties": {
+                "name": "Tirpitz",
+                "navy": "German Navy",
+                "date_sunk": "12 November 1944",
+                "death": "1204",
+                "id": "43",
+                "reclong": "18.808333",
+                "reclat": "69.647222"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              121.383333,
+              26.15
+        ]
+            },
+            "properties": {
+                "name": "Kongo",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "21 November 1944",
+                "death": "1250",
+                "id": "44",
+                "reclong": "121.383333",
+                "reclat": "26.15"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              17.228666,
+              40.463750
+        ]
+            },
+            "properties": {
+                "name": "Conte di Cavour",
+                "navy": "Regia Marina",
+                "date_sunk": "23 February 1945",
+                "death": "0",
+                "id": "45",
+                "reclong": "17.228666",
+                "reclat": "40.463750"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              128.066667,
+              30.366667
+        ]
+            },
+            "properties": {
+                "name": "Yamato",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "7 April 1945",
+                "death": "3055",
+                "id": "46",
+                "reclong": "128.066667",
+                "reclat": "30.3666670"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              132.615052,
+              34.190273
+        ]
+            },
+            "properties": {
+                "name": "Haruna",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "24 July 1945",
+                "death": "65",
+                "id": "47",
+                "reclong": "132.615052",
+                "reclat": "34.190273"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              132.622148,
+              34.182362
+        ]
+            },
+            "properties": {
+                "name": "Settsu",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "29 July 1945",
+                "death": "65",
+                "id": "48",
+                "reclong": "132.622148",
+                "reclat": "34.182362"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              132.634531,
+              34.192993
+        ]
+            },
+            "properties": {
+                "name": "Ise",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "28 July 1945",
+                "death": "50",
+                "id": "49",
+                "reclong": "132.6345318",
+                "reclat": "34.192993"
+            }
+    },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+              132.55,
+              34.166667
+        ]
+            },
+            "properties": {
+                "name": "Hyuga",
+                "navy": "Imperial Japanese Navy",
+                "date_sunk": "1 August 1945",
+                "death": "200",
+                "id": "50",
+                "reclong": "132.55",
+                "reclat": "34.166667"
+            }
+    }
+
+
+  ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}
