@@ -5,6 +5,7 @@
 I wanted to know how many people died in the 2nd World War. I kept my poster fairly simple because I wanted to keep the message of the data as clear as possible. The message of the data is so powerful that I did not want to change this much.  
   
 **Goal**  
+  
 Visualize the top 10 countries on criteria of the number of victims of World War 2. Make a clear distinction between soldiers, civilians and people who died in the Holocaust.  
   
 **Properties**
@@ -79,5 +80,5 @@ Other: A.x Node-based
   
 **Result**  
   
-Assignment 4 is a video, which show shows everything arrests of each year, starting 1970 up until 2017. And compares the amount of arrests of each county..
+Assignment 4 is a video, which show shows everything arrests of each year, starting 1970 up until 2017. And compares the amount of arrests of each county.
   
