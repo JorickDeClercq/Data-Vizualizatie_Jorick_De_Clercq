@@ -1,1 +1,18 @@
-
+##Assignment1 : Lost potential  
+Proces  
+  
+I wanted to know how many people died in the 2nd World War. I kept my poster fairly simple because I wanted to keep the message of the data as clear as possible. The message of the data is so powerful that I did not want to change this much.  
+  
+Goal  
+  
+Visualize the top 10 countries on criteria of the number of victims of World War 2. Make a clear distinction between soldiers, civilians and people who died in the Holocaust.  
+  
+Properties  
+  
+Intent: A.1 Explanatory
+  
+Appearance: A.2 Static
+  
+Result  
+  
+A simple bar chart where the 10 countries get up with the most victims of World War 2. The victims are divided into civilians, soldiers and people who died in the Holocaust.
