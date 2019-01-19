@@ -1,1 +1,19 @@
+Assignment4 : Fairytale Of New York
 
+Proces
+I found a dataset of the number of people arrested in the counties of New York. These were dated from 1970 to 2017. 
+I was wondering if this amound was increased or not so I made a video of it with nodebox and premierePro.
+
+Goal
+Create a linear video which compares the amount of arrests by province of New York starting from 1970.
+
+Properties
+Intent: A.1 Explanatory
+
+Appearance: A.2 Linear
+
+Other: A.x Node-based
+
+Result
+Assignment 4 is a video, which show shows everything arrests of each year, starting 1970 up until 2017. 
+And compares the amount of arrests of each county.
