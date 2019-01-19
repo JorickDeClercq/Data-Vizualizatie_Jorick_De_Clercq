@@ -1,1 +1,21 @@
+Assignment3 : Can you spot it?
 
+Proces
+I found a project from someone who generated 3d maps with a view of where you encounter a certain kind of deer. 
+I thought this was such a cool idea that I used his code written in R and generated my own models.
+
+Goal
+Create a 3D map where you can see where you can encounter a brown bear and how likely it is you encounter one.
+
+Properties
+Intent: A.1 Exploratory
+
+Media: B Physical
+
+Appearance: A.2 Static
+
+Other: A.x 3D
+
+Result
+A 3D printed map of North America where you can see on the basis of encounters where you can come across a brown bear. 
+The height correlates how likely it is that you encounter a brown bear.
